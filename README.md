@@ -20,4 +20,4 @@
 
 ## 📸 Screenshots
 
-<img src="snapshot.png" width="850px" height="1000px">
+<img src="snapshot.png" width="800px" height="1200px">
