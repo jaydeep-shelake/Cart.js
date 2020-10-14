@@ -1,6 +1,6 @@
 # Cart.js
 <div align="center">
-  <img width="200px" src="dic.png"/>
+  <img width="200px" src="cart.png"/>
 </div>
 <br>
 
